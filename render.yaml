@@ -1,5 +1,5 @@
 services:
-- type: worker
+- type: web
   name: Moon-Userbot
   runtime: docker
   repo: https://github.com/The-MoonTg-project/Moon-Userbot
